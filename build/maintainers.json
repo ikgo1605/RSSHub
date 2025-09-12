@@ -8126,7 +8126,7 @@
   "/u9a9/search/:keyword/:preview?": [
     "TonyRL"
   ],
-  "/uber/blog/:maxPage?": [
+  "/uber/blog/:compat?": [
     "hulb"
   ],
   "/ucas/ai": [
@@ -8734,9 +8734,6 @@
     "lengthmin",
     "jjeejj",
     "prnake"
-  ],
-  "/xinhuanet/app": [
-    "nczitzk"
   ],
   "/xinpianchang/discover/:params?": [
     "nczitzk"
