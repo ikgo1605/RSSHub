@@ -40153,7 +40153,8 @@
         "title": "Engineering",
         "docs": "https://docs.rsshub.app/routes/blog",
         "source": [
-          "/:language/blog/engineering"
+          "/:language/blog/engineering",
+          "/:language/blog"
         ],
         "target": "/uber/blog"
       }
@@ -42080,6 +42081,19 @@
           "/"
         ],
         "target": "/xidian/gr/:category?"
+      }
+    ]
+  },
+  "xinhuanet.com": {
+    "_name": "新华网",
+    "app": [
+      {
+        "title": "客户端",
+        "docs": "https://docs.rsshub.app/routes/traditional-media",
+        "source": [
+          "/"
+        ],
+        "target": "/xinhuanet/app"
       }
     ]
   },
