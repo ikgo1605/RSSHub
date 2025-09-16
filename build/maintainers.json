@@ -4804,6 +4804,9 @@
   "/lens/profile/:handle": [
     "DIYgod"
   ],
+  "/letterboxd/:username/watchlist": [
+    "johan456789"
+  ],
   "/lfsyd/home": [
     "auto-bot-ty"
   ],
@@ -7720,6 +7723,9 @@
   "/telegram/blog": [
     "fengkx"
   ],
+  "/telegram/channel/:entityName/:messageId": [
+    "synchrone"
+  ],
   "/telegram/channel/:username/:routeParams?": [
     "DIYgod",
     "Rongronggg9",
@@ -7728,6 +7734,9 @@
   ],
   "/telegram/stickerpack/:name": [
     "DIYgod"
+  ],
+  "/telegram/stories/:username/:story?": [
+    "synchrone"
   ],
   "/tencent/cloud/developer/column/:categoryId?": [
     "lyling"
