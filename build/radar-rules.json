@@ -34725,6 +34725,19 @@
       }
     ]
   },
+  "nat.gov.tw": {
+    "_name": "科技大觀園",
+    "scitechvista": [
+      {
+        "title": "最新文章",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/"
+        ],
+        "target": "/scitechvista/"
+      }
+    ]
+  },
   "scmp.com": {
     "_name": "Corona Virus Disease 2019",
     ".": [
