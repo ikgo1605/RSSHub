@@ -2007,9 +2007,6 @@
     "nczitzk"
   ],
   "/dayanzai/:category/:fulltext?": [],
-  "/dbaplus/news/:id?": [
-    "nczitzk"
-  ],
   "/dbaplus/": [
     "cnkmmk"
   ],
