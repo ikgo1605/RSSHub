@@ -507,6 +507,9 @@
   "/alternativeto/software/:name/:routeParams?": [
     "JimenezLi"
   ],
+  "/altotrain/:language?": [
+    "elibroftw"
+  ],
   "/amazfitwatchfaces/:device/:sort/:searchParams?": [
     "nczitzk"
   ],
@@ -2941,6 +2944,9 @@
   "/gamme/:domain/tag/:tag": [],
   "/gaoyu/blog": [
     "nczitzk"
+  ],
+  "/gc.ca/pm/:language?": [
+    "elibroftw"
   ],
   "/gcores/articles": [
     "nczitzk"

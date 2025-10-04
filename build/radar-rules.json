@@ -5129,6 +5129,21 @@
       }
     ]
   },
+  "altotrain.ca": {
+    "_name": "Alto - Toronto-Québec City High-Speed Rail Network",
+    ".": [
+      {
+        "title": "Alto News",
+        "docs": "https://docs.rsshub.app/routes/travel",
+        "source": [
+          "/:language",
+          "/:language/news",
+          "/:language/nouvelles"
+        ],
+        "target": "/altotrain/:language"
+      }
+    ]
+  },
   "amazfitwatchfaces.com": {
     "_name": "Amazfitwatchfaces",
     ".": [
@@ -15820,6 +15835,22 @@
           "/blog"
         ],
         "target": "/gaoyu/blog"
+      }
+    ]
+  },
+  "pm.gc.ca": {
+    "_name": "Prime Minister of Canada",
+    ".": [
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/",
+          "/:language",
+          "/:language/news",
+          "/:language/nouvelles"
+        ],
+        "target": "/gc.ca/pm/:language"
       }
     ]
   },
