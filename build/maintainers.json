@@ -1551,6 +1551,9 @@
   "/chinathinktanks/:id": [
     "Aeliu"
   ],
+  "/chinatimes/:category?": [
+    "KingJem"
+  ],
   "/chinaventure/news/:id?": [
     "yuxinliu-alex"
   ],
@@ -4979,12 +4982,6 @@
     "axojhf",
     "zhaoweizhong"
   ],
-  "/lovelive-anime/schedules/:serie?/:category?": [
-    "axojhf"
-  ],
-  "/lovelive-anime/topics/:abbr/:category?/:option?": [
-    "axojhf"
-  ],
   "/lrepacks/:category?": [
     "nczitzk"
   ],
@@ -6294,6 +6291,9 @@
   ],
   "/pixabay/search/:q/:order?": [
     "TonyRL"
+  ],
+  "/pixelstech/feed/:topic?": [
+    "nczitzk"
   ],
   "/pixiv/user/bookmarks/:id": [
     "EYHN"
