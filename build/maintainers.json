@@ -1551,9 +1551,6 @@
   "/chinathinktanks/:id": [
     "Aeliu"
   ],
-  "/chinatimes/:category?": [
-    "KingJem"
-  ],
   "/chinaventure/news/:id?": [
     "yuxinliu-alex"
   ],
